@@ -7,7 +7,12 @@
 
 - 📫 How to reach me **tim.seifert@gmx.de**
 
-- 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021)
+- 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021). Our final group project was letting an AI learn how to write poetry. This is what came out:
+- **This is a song in the style of Bob Dylan, as possibly imagined by Elon Musk. The topic is his new tesla model:** 
+I started out on the farm with my dear old dad 
+And he said, "Don't ya wanna grow up to be like me?"
+A tesla car breaker who hates pollution 
+Now my teslas are breakin' down pollution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
