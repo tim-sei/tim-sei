@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">fresh data science bootcamp graduate, formerly working in politics</h3>
+<h3 align="center">recent data science bootcamp graduate, formerly working in politics</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tim.seifert@gmx.de**
 
-- 📄 Know about my experiences: former career in politics and NGOs
+- 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
