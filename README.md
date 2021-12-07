@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tim.seifert@gmx.de**
 
-- 📄 Know about my experiences [I have a former career in politics and NGOs](I have a former career in politics and NGOs)
+- 📄 Know about my experiences: former career in politics and NGOs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
