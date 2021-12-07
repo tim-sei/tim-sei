@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">recent data science bootcamp graduate, formerly working in politics</h3>
 
+
 - 🌱 I’m currently learning **Data Science**, looking for a job as a **Data Analyst**
 
 - 💬 Ask me about **politics, society**
