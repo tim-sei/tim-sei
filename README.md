@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **politics, society**
 
-- 📫 How to reach me **tim.seifert@gmx.de**
+- 📫 How to reach me **tim.seifert@gmx.de** | **linkedin.com/in/tim-seifert**
 
 - 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021). Our final group project was letting an AI learn how to write poetry. This is what came out:
 
