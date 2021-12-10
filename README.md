@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **politics, society**
 
-- 📫 How to reach me **tim.seifert@gmx.de** | **linkedin.com/in/tim-seifert**
+- 📫 How to reach me **tim.seifert@gmx.de** | **https://linkedin.com/in/tim-seifert**
 
 - 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021). Our final group project was letting an AI learn how to write poetry. This is what came out:
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tim-seifert-994233228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tim-seifert-994233228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tim-seifert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tim-seifert-994233228/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
