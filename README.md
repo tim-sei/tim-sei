@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tim.seifert@gmx.de** | **https://linkedin.com/in/tim-seifert**
 
-- 📄 Know about my experiences: I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021). Our final group project was letting an AI learn how to write poetry. This is what came out:
+- 📄 I recently finished the Data Science Bootcamp of Le Wagon Berlin (#735, 12/2021). Our final group project was letting an AI learn how to write poetry. This is what came out:
 
     **This is a song in the style of Bob Dylan, as possibly imagined by Elon Musk. The topic is his new tesla model:**
   
